@@ -14,7 +14,7 @@
         <module>oa_web</module>
     </modules>
     <properties>
-        <spring-version>5.2.3.RELEASE</spring-version>
+        <spring-version>5.3.18</spring-version>
     </properties>
 
     <dependencies>
@@ -26,7 +26,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>5.2.3.RELEASE</version>
+            <version>5.3.18</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
